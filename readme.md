@@ -106,7 +106,7 @@ By specifying the version using py -3.10 or python3.10, you can ensure that the 
 
 ```
 travel-brochure-creation
-├─ Local_text_to_image.ipynb
+├─ notebook.ipynb
 ├─ readme.md
 └─ requirements.txt
 
